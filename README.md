@@ -8,3 +8,5 @@ In part 1, we only detect and track the iris of the eye using face mesh of media
 
 Part 2:
 In part 2, we detect where the person is looking on the vision field camera using the moverment of iris.
+
+The code will produce two output videos, stored in output folder.
